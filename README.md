@@ -1,1 +1,3 @@
-# n_qubits_grover_algorithm
+# N qubits Grover's algorithm
+
+This project implements Grover's algorithm using Qiskit. This code works for any n qubits case (n is a constant). 
